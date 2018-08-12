@@ -1,0 +1,3 @@
+ - I *love* helping people.
+ - _I enjoy making different activities **fun**_
+ - I'm having a _**BLAST**_ learning GitHub
