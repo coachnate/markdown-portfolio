@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Nate Whitehead
+## Soon to be certified GitHub Trainer! :)
