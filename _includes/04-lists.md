@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My favs:
+ - Cooking
+ - Coding
+ - Coffee
+ - Spending time with my family
