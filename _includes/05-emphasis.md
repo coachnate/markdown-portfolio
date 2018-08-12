@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ - I *love* helping people.
+ - _I enjoy making different activities **fun**_
+ - I'm having a _**BLAST**_ learning GitHub
